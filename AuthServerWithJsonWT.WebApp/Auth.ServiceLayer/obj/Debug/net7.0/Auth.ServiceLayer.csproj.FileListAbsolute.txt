@@ -1,0 +1,17 @@
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\bin\Debug\net7.0\Auth.ServiceLayer.deps.json
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\bin\Debug\net7.0\Auth.ServiceLayer.dll
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\bin\Debug\net7.0\Auth.ServiceLayer.pdb
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\bin\Debug\net7.0\Auth.CoreLayer.dll
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\bin\Debug\net7.0\Auth.RepositoryLayer.dll
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\bin\Debug\net7.0\Auth.RepositoryLayer.pdb
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\bin\Debug\net7.0\Auth.CoreLayer.pdb
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\obj\Debug\net7.0\Auth.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\obj\Debug\net7.0\Auth.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\obj\Debug\net7.0\Auth.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\obj\Debug\net7.0\Auth.ServiceLayer.AssemblyInfo.cs
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\obj\Debug\net7.0\Auth.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\obj\Debug\net7.0\Auth.ServiceLayer.csproj.CopyComplete
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\obj\Debug\net7.0\Auth.ServiceLayer.dll
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\obj\Debug\net7.0\refint\Auth.ServiceLayer.dll
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\obj\Debug\net7.0\Auth.ServiceLayer.pdb
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWT.WebApp\Auth.ServiceLayer\obj\Debug\net7.0\ref\Auth.ServiceLayer.dll

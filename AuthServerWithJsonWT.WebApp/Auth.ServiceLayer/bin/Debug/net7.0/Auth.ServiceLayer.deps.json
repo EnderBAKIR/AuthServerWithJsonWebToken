@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Auth.ServiceLayer/1.0.0": {
+        "dependencies": {
+          "Auth.RepositoryLayer": "1.0.0"
+        },
+        "runtime": {
+          "Auth.ServiceLayer.dll": {}
+        }
+      },
+      "Auth.CoreLayer/1.0.0": {
+        "runtime": {
+          "Auth.CoreLayer.dll": {}
+        }
+      },
+      "Auth.RepositoryLayer/1.0.0": {
+        "dependencies": {
+          "Auth.CoreLayer": "1.0.0"
+        },
+        "runtime": {
+          "Auth.RepositoryLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Auth.ServiceLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Auth.CoreLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Auth.RepositoryLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
