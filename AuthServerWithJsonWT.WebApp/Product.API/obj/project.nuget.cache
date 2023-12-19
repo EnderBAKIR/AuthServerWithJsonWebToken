@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vrafafcfxJTynKUP3Xpwj2G2XJFkEZxnKzIqtA6iu75jQUgrs8BRkSvmOEdTS8qXtsWwD/4ezjl4Q7UKVguaMQ==",
+  "dgSpecHash": "alQISasGNbA08ftk8rj6QLjzoGbPhkBFZkvVGM2NgJ5SAz9+7t9CXKrhooCurErUQVz7CDiHoino7o785q1cjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\AuthServerWithJsonWT.WebApp\\Product.API\\Product.API.csproj",
+  "projectFilePath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Belgeler\\GitHub\\AuthServerWithJsonWebToken\\AuthServerWithJsonWT.WebApp\\Product.API\\Product.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ender\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\Ender\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
