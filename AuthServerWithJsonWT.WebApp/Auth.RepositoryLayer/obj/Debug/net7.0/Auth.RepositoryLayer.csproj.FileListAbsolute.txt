@@ -30,3 +30,5 @@ C:\Users\Ender\OneDrive\Masaüstü\Belgeler\GitHub\AuthServerWithJsonWebToken\Au
 C:\Users\Ender\OneDrive\Masaüstü\Belgeler\GitHub\AuthServerWithJsonWebToken\AuthServerWithJsonWT.WebApp\Auth.RepositoryLayer\obj\Debug\net7.0\ref\Auth.RepositoryLayer.dll
 C:\Users\Ender\OneDrive\Masaüstü\Belgeler\GitHub\AuthServerWithJsonWebToken\AuthServerWithJsonWT.WebApp\Auth.RepositoryLayer\bin\Debug\net7.0\Auth.SharedLibrary.dll
 C:\Users\Ender\OneDrive\Masaüstü\Belgeler\GitHub\AuthServerWithJsonWebToken\AuthServerWithJsonWT.WebApp\Auth.RepositoryLayer\bin\Debug\net7.0\Auth.SharedLibrary.pdb
+C:\Users\Ender\OneDrive\Masaüstü\Belgeler\GitHub\AuthServerWithJsonWebToken\AuthServerWithJsonWT.WebApp\Auth.RepositoryLayer\bin\Debug\net7.0\Auth.RepositoryLayer.runtimeconfig.json
+C:\Users\Ender\OneDrive\Masaüstü\Belgeler\GitHub\AuthServerWithJsonWebToken\AuthServerWithJsonWT.WebApp\Auth.RepositoryLayer\obj\Debug\net7.0\Auth.RepositoryLayer.genruntimeconfig.cache

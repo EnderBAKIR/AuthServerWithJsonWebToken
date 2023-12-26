@@ -16,10 +16,10 @@ namespace Auth.CoreLayer.Services
 
         Task<Response< IEnumerable<TDto>>> Where(Expression<Func<Tentity, bool>> predicate);
 
-        Task<Response<TDto>> AddAsync(Tentity entity);
+        Task<Response<TDto>> AddAsync(TDto entity);
 
-        Task<Response<NoDataDto>> Remove(Tentity entity);
+        Task<Response<NoDataDto>> Remove(int id);
 
-        Task<Response<NoDataDto>> Update(Tentity entity);
+        Task<Response<NoDataDto>> Update(TDto entity , int id);
     }
 }

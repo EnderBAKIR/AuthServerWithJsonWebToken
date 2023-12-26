@@ -16,6 +16,6 @@ namespace Auth.CoreLayer.Services
 
         Task<Response<NoDataDto>> RevokeRefreshToken(string refreshTOken);
 
-        Task<Response<ClientTokenDto>> CreateTokenByClient(ClientSignInDto clientSignInDto);
+        Response<ClientTokenDto> CreateTokenByClient(ClientSignInDto clientSignInDto);
     }
 }
