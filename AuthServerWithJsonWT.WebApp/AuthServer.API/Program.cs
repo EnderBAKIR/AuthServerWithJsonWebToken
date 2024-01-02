@@ -8,6 +8,9 @@ using Auth.ServiceLayer.Services;
 using Auth.SharedLibrary.Configurations;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Auth.RepositoryLayer.Repositories;
+using Auth.RepositoryLayer.UnitOfWorks;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,9 +21,9 @@ builder.Services.AddControllers();
 builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<ITokenService, TokenService>();
-builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(IGenericRepository<>));
-builder.Services.AddScoped(typeof(IService<,>), typeof(IService<,>));
-builder.Services.AddScoped<IUnitOfWork, IUnitOfWork>();
+builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+builder.Services.AddScoped(typeof(IService<,>), typeof(Service<,>));
+builder.Services.AddScoped<IUnitOfWork,UnitOFWork >();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
@@ -43,7 +46,41 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 //Option Pattern
 builder.Services.Configure<CustomTokenOptions>(builder.Configuration.GetSection("TokenOptions"));
-builder.Services.Configure<List<Client>>(builder.Configuration.GetSection("Clients"));//Clientde ki Datalara eriþebilmek için
+builder.Services.Configure<List<Client>>(builder.Configuration.GetSection("Clients"));//To access data in the client
+
+//Authentication Control
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+
+}).AddJwtBearer(JwtBearerDefaults.AuthenticationScheme, ops =>
+{
+    var tokenOptions = builder.Configuration.GetSection("TokenOptions").Get<CustomTokenOptions>();//new option object 
+    ops.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters()
+    {
+        ValidIssuer = tokenOptions.Issuer,
+        ValidAudience = tokenOptions.Audience[0],
+        IssuerSigningKey =SignService.GetSymmetricSecurityKey(tokenOptions.SecurityKey),
+
+        ValidateIssuerSigningKey = true,
+        ValidateAudience = true,
+        ValidateIssuer = true,
+        ValidateLifetime = true,
+        ClockSkew = TimeSpan.Zero //delete default plus five minute
+
+    };
+});
+
+
+
+
+
+
+
+
+
+
 //Option Pattern
 var app = builder.Build();
 
