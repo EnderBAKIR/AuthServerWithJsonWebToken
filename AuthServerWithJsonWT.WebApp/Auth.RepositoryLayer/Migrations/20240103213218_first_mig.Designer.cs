@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Auth.RepositoryLayer.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240102182202_first_mig1")]
-    partial class firstmig1
+    [Migration("20240103213218_first_mig")]
+    partial class firstmig
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -62,7 +62,6 @@ namespace Auth.RepositoryLayer.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("City")
-                        .IsRequired()
                         .HasMaxLength(66)
                         .HasColumnType("nvarchar(66)");
 

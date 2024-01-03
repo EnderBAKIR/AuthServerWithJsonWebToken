@@ -59,7 +59,6 @@ namespace Auth.RepositoryLayer.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("City")
-                        .IsRequired()
                         .HasMaxLength(66)
                         .HasColumnType("nvarchar(66)");
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xRhO6EBjd8bdlIH0aot6LUePelYcLBIPAa8GUveMINEzT7J/Pmxzkd8c++mJ6G8JNVGJlXpqv1ugFKHvNepSSA==",
+  "dgSpecHash": "cHpi1UFb16u5Dtn14uEw8E3+xxUX0Srerm5O7tHZr+upaaVu8nL4qCgWwHcx9TjpwuIXTgJQMfEnVhiT7yomLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Belgeler\\GitHub\\AuthServerWithJsonWebToken\\AuthServerWithJsonWT.WebApp\\Auth.SharedLayer\\Auth.SharedLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\AuthServerWithJsonWebToken-main\\AuthServerWithJsonWT.WebApp\\Auth.SharedLayer\\Auth.SharedLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

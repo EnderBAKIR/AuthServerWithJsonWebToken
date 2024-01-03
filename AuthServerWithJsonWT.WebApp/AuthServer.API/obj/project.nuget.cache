@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "edD1DZcWT+BTgrrqAGNbc03p4lAb8ea/4ewMmAolaN/YdPPXH71lC3BCq9vNWRKbC1rNzV9fK7sP3pTNok2OKA==",
+  "dgSpecHash": "BN26pqXsHgWLkqDUDA0vi464VxT+i3rzFkwi2dm6bRt5ZO0MJEGWZ/NDwPEM/DH6egy5SjYSNiVPLWB1ra7vHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Belgeler\\GitHub\\AuthServerWithJsonWebToken\\AuthServerWithJsonWT.WebApp\\AuthServer.API\\AuthServer.API.csproj",
+  "projectFilePath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\AuthServerWithJsonWebToken-main\\AuthServerWithJsonWT.WebApp\\AuthServer.API\\AuthServer.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ender\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Ender\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

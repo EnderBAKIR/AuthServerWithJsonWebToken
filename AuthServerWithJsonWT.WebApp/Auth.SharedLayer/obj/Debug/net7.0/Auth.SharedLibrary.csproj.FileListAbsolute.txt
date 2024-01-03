@@ -20,3 +20,14 @@ C:\Users\Ender\OneDrive\Masaüstü\Belgeler\GitHub\AuthServerWithJsonWebToken\Au
 C:\Users\Ender\OneDrive\Masaüstü\Belgeler\GitHub\AuthServerWithJsonWebToken\AuthServerWithJsonWT.WebApp\Auth.SharedLayer\obj\Debug\net7.0\refint\Auth.SharedLibrary.dll
 C:\Users\Ender\OneDrive\Masaüstü\Belgeler\GitHub\AuthServerWithJsonWebToken\AuthServerWithJsonWT.WebApp\Auth.SharedLayer\obj\Debug\net7.0\Auth.SharedLibrary.pdb
 C:\Users\Ender\OneDrive\Masaüstü\Belgeler\GitHub\AuthServerWithJsonWebToken\AuthServerWithJsonWT.WebApp\Auth.SharedLayer\obj\Debug\net7.0\ref\Auth.SharedLibrary.dll
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWebToken-main\AuthServerWithJsonWT.WebApp\Auth.SharedLayer\bin\Debug\net7.0\Auth.SharedLibrary.deps.json
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWebToken-main\AuthServerWithJsonWT.WebApp\Auth.SharedLayer\bin\Debug\net7.0\Auth.SharedLibrary.dll
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWebToken-main\AuthServerWithJsonWT.WebApp\Auth.SharedLayer\bin\Debug\net7.0\Auth.SharedLibrary.pdb
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWebToken-main\AuthServerWithJsonWT.WebApp\Auth.SharedLayer\obj\Debug\net7.0\Auth.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWebToken-main\AuthServerWithJsonWT.WebApp\Auth.SharedLayer\obj\Debug\net7.0\Auth.SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWebToken-main\AuthServerWithJsonWT.WebApp\Auth.SharedLayer\obj\Debug\net7.0\Auth.SharedLibrary.AssemblyInfo.cs
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWebToken-main\AuthServerWithJsonWT.WebApp\Auth.SharedLayer\obj\Debug\net7.0\Auth.SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWebToken-main\AuthServerWithJsonWT.WebApp\Auth.SharedLayer\obj\Debug\net7.0\Auth.SharedLibrary.dll
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWebToken-main\AuthServerWithJsonWT.WebApp\Auth.SharedLayer\obj\Debug\net7.0\refint\Auth.SharedLibrary.dll
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWebToken-main\AuthServerWithJsonWT.WebApp\Auth.SharedLayer\obj\Debug\net7.0\Auth.SharedLibrary.pdb
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\AuthServerWithJsonWebToken-main\AuthServerWithJsonWT.WebApp\Auth.SharedLayer\obj\Debug\net7.0\ref\Auth.SharedLibrary.dll
