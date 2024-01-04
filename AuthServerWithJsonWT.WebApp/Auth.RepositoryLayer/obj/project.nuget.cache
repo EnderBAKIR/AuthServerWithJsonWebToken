@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1TDBvT4/r1WAiMXZAiRBG0t1IO4H5fxZV3wXCeMAd+8T0+w6BvfFIzSTvFXIP94M/1GBAoTgGEUogG/2z9YqnA==",
+  "dgSpecHash": "apvoBjM7xCBgBX29+TaRQ0WFW9DY/gc3I+A2cb2krAGVOEBov1Ib4SBmo9kDrmqL+eQdBGTnLTgUoyUoU6QcRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\AuthServerWithJsonWebToken-main\\AuthServerWithJsonWT.WebApp\\Auth.RepositoryLayer\\Auth.RepositoryLayer.csproj",
+  "projectFilePath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\Jwt\\AuthServerWithJsonWT.WebApp\\Auth.RepositoryLayer\\Auth.RepositoryLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ender\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Ender\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
