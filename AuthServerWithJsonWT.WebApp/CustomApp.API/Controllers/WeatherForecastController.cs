@@ -1,8 +1,10 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CustomApp.API.Controllers
 {
     [ApiController]
+    [Authorize]//Custom App Authenticate test 
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
