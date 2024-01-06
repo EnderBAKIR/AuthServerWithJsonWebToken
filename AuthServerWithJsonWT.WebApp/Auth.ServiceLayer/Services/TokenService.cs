@@ -3,6 +3,7 @@ using Auth.CoreLayer.DTOs;
 using Auth.CoreLayer.Models;
 using Auth.CoreLayer.Services;
 using Auth.SharedLibrary.Configurations;
+using Auth.SharedLibrary.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;

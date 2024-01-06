@@ -11,6 +11,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Auth.RepositoryLayer.Repositories;
 using Auth.RepositoryLayer.UnitOfWorks;
+using Auth.SharedLibrary.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
