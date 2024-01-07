@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "twM4k649UcF1nZgTYAyJ4vjHlkMFBM8LV+/fMcPPV8XzX1lZtFSZ6AZvUJHsY5uADTSWSMSGzWUHmgB/zmKWIA==",
+  "dgSpecHash": "z6ZzAu9MOTy0/P+8TurktfXxiRgYPBGY69OWqf3U5aVrxM1hXReyWPJcR2ZdBKsi7EmCfBXK5p49DjtlS0VqUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Belgeler\\GitHub\\AuthServerWithJsonWebToken\\AuthServerWithJsonWT.WebApp\\CustomApp.API\\CustomApp.API.csproj",
+  "projectFilePath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\Jwt\\AuthServerWithJsonWT.WebApp\\CustomApp.API\\CustomApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ender\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.14\\microsoft.aspnetcore.authentication.jwtbearer.7.0.14.nupkg.sha512",
     "C:\\Users\\Ender\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",

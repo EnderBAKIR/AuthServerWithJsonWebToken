@@ -12,12 +12,26 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Auth.RepositoryLayer.Repositories;
 using Auth.RepositoryLayer.UnitOfWorks;
 using Auth.SharedLibrary.Services;
-
+using FluentValidation.AspNetCore;
+using Microsoft.OpenApi.Models;
+using Auth.SharedLibrary.Extension;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+//Custom Validation
+
+
+builder.Services.AddControllers().AddFluentValidation(optipons =>
+{
+    optipons.RegisterValidatorsFromAssemblyContaining<Program>();
+});
+
+builder.Services.UseCustomValidationResponse();
+
+//Custom Validation
+
+
 //Extensions Container
 builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
 builder.Services.AddScoped<IUserService, UserService>();
@@ -91,9 +105,13 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+else
+{
+app.UseCustomException();
+}
 
 app.UseHttpsRedirection();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

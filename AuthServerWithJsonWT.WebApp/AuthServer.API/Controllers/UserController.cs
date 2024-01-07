@@ -1,5 +1,7 @@
 ﻿using Auth.CoreLayer.DTOs;
 using Auth.CoreLayer.Services;
+using Auth.SharedLibrary.Exceptions;
+using Auth.SharedLibrary.Extension;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -21,6 +23,7 @@ namespace AuthServer.API.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateUser(CreateUserDto createUserDto)
         {
+            throw new CustomException("Sistemden kaynaklanan bir hata var lütfen daha sonra tekrar deneyiniz");
             return ActionResultInstance(await _userService.CreateUserAsync(createUserDto));
         }
 

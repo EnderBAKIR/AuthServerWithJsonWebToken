@@ -301,3 +301,6 @@ C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\Jwt\AuthServerWithJsonWT.WebApp\Au
 C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\Jwt\AuthServerWithJsonWT.WebApp\AuthServer.API\obj\Debug\net7.0\AuthServer.API.pdb
 C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\Jwt\AuthServerWithJsonWT.WebApp\AuthServer.API\obj\Debug\net7.0\AuthServer.API.genruntimeconfig.cache
 C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\Jwt\AuthServerWithJsonWT.WebApp\AuthServer.API\obj\Debug\net7.0\ref\AuthServer.API.dll
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\Jwt\AuthServerWithJsonWT.WebApp\AuthServer.API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\Jwt\AuthServerWithJsonWT.WebApp\AuthServer.API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\Ender\OneDrive\Masaüstü\Masaüstü\Jwt\AuthServerWithJsonWT.WebApp\AuthServer.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll

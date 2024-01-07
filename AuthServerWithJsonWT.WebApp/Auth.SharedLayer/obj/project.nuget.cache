@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XEzy82jOZMSplfIn7A6bd3zGgl6tgwcCw0iWUqT2LkEOlwcQI9ez8lyRhk49Kj0KJ37+cnb1AD15vq3VzSt3+Q==",
+  "dgSpecHash": "sjC6+qIVVsAhdDsDaWLC0aiZF60CNI5gOU2N+XMl2/1dAYkKAQBIuijVSllE2XfCqxS82ME8GASSBt5TAPIgxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Belgeler\\GitHub\\AuthServerWithJsonWebToken\\AuthServerWithJsonWT.WebApp\\Auth.SharedLayer\\Auth.SharedLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Ender\\OneDrive\\Masaüstü\\Masaüstü\\Jwt\\AuthServerWithJsonWT.WebApp\\Auth.SharedLayer\\Auth.SharedLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ender\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.14\\microsoft.aspnetcore.authentication.jwtbearer.7.0.14.nupkg.sha512",
     "C:\\Users\\Ender\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
